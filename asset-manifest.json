@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Langeti99/DocumentFotoStudio.git/static/css/main.8a906d79.css",
+    "main.js": "/Langeti99/DocumentFotoStudio.git/static/js/main.07562727.js",
+    "static/media/bg.jpg": "/Langeti99/DocumentFotoStudio.git/static/media/bg.041c63fbe755a603b314.jpg",
+    "static/media/Logo.png": "/Langeti99/DocumentFotoStudio.git/static/media/Logo.1d67c2f86d9c1044ab36.png",
+    "index.html": "/Langeti99/DocumentFotoStudio.git/index.html",
+    "main.8a906d79.css.map": "/Langeti99/DocumentFotoStudio.git/static/css/main.8a906d79.css.map",
+    "main.07562727.js.map": "/Langeti99/DocumentFotoStudio.git/static/js/main.07562727.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a906d79.css",
+    "static/js/main.07562727.js"
+  ]
+}
