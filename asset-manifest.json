@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DocumentFotoStudio/static/css/main.9959cbfa.css",
-    "main.js": "/DocumentFotoStudio/static/js/main.4e2fa5ed.js",
+    "main.css": "/DocumentFotoStudio/static/css/main.453ab620.css",
+    "main.js": "/DocumentFotoStudio/static/js/main.0fc7d06b.js",
     "static/media/bg.jpg": "/DocumentFotoStudio/static/media/bg.041c63fbe755a603b314.jpg",
     "static/media/Logo.png": "/DocumentFotoStudio/static/media/Logo.1d67c2f86d9c1044ab36.png",
     "index.html": "/DocumentFotoStudio/index.html",
-    "main.9959cbfa.css.map": "/DocumentFotoStudio/static/css/main.9959cbfa.css.map",
-    "main.4e2fa5ed.js.map": "/DocumentFotoStudio/static/js/main.4e2fa5ed.js.map"
+    "main.453ab620.css.map": "/DocumentFotoStudio/static/css/main.453ab620.css.map",
+    "main.0fc7d06b.js.map": "/DocumentFotoStudio/static/js/main.0fc7d06b.js.map"
   },
   "entrypoints": [
-    "static/css/main.9959cbfa.css",
-    "static/js/main.4e2fa5ed.js"
+    "static/css/main.453ab620.css",
+    "static/js/main.0fc7d06b.js"
   ]
 }
