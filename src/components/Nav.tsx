@@ -13,7 +13,7 @@ function Nav() {
           </div>
           <ul className="Nav-menu">
             <a href="./index.html">
-              <li className="active">Головна</li>
+              <li>Головна</li>
             </a>
             <a href="./index.html">
               <li>Фото</li>
