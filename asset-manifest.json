@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/DocumentFotoStudio/static/css/main.f5aca140.css",
-    "main.js": "/DocumentFotoStudio/static/js/main.55e779f5.js",
+    "main.js": "/DocumentFotoStudio/static/js/main.8aaf69bf.js",
     "static/media/bg.jpg": "/DocumentFotoStudio/static/media/bg.041c63fbe755a603b314.jpg",
     "static/media/instagram.png": "/DocumentFotoStudio/static/media/instagram.bc603acad2a8cb3bd098.png",
     "static/media/tiktok.png": "/DocumentFotoStudio/static/media/tiktok.1b85da717508a0b9d5a7.png",
     "static/media/Logo.png": "/DocumentFotoStudio/static/media/Logo.1d67c2f86d9c1044ab36.png",
     "index.html": "/DocumentFotoStudio/index.html",
     "main.f5aca140.css.map": "/DocumentFotoStudio/static/css/main.f5aca140.css.map",
-    "main.55e779f5.js.map": "/DocumentFotoStudio/static/js/main.55e779f5.js.map"
+    "main.8aaf69bf.js.map": "/DocumentFotoStudio/static/js/main.8aaf69bf.js.map"
   },
   "entrypoints": [
     "static/css/main.f5aca140.css",
-    "static/js/main.55e779f5.js"
+    "static/js/main.8aaf69bf.js"
   ]
 }
